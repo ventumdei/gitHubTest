@@ -11,6 +11,7 @@ struct Node
 };
 
 void print(Node *&head);
+void pushFront(Node *&head);
 
 
 
