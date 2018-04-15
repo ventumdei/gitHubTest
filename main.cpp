@@ -10,6 +10,8 @@ struct Node
     Node *next;
 };
 
+void print(Node *&head);
+
 
 
 int main()
