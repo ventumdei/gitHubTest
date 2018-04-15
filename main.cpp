@@ -12,6 +12,7 @@ struct Node
 
 void print(Node *&head);
 void pushFront(Node *&head);
+bool manip(Node *&head, int n, int idx);
 
 
 
